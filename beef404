@@ -45,7 +45,22 @@ echo -e $rojoclaro "[ X ] PHP  -> $rojo No instaldo "
 echo -e $amarillo "[ ! ] Instalando SHH "
 sudo apt-get install ssh -y
 echo -e $azulclaro "[ ✔ ] Termino la Instalacion ...."
-which php > /dev/null 2>&1
+which ssh > /dev/null 2>&1
+sleep 2
+fi
+
+#verificando WGET
+which wget > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e $verdeclaro "[ ✔ ]   WGET..............$purpuraclaro[ Instalado ]$neutro"
+which wget > /dev/null 2>&1
+sleep 2
+else
+echo -e $rojoclaro "[ X ] PHP  -> $rojo No instaldo "
+echo -e $amarillo "[ ! ] Instalando WGET "
+sudo apt-get install wget -y
+echo -e $azulclaro "[ ✔ ] Termino la Instalacion ...."
+which wget > /dev/null 2>&1
 sleep 2
 fi
 
