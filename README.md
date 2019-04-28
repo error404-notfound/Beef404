@@ -14,7 +14,9 @@ Con este script puedes clonar cualquier pagina para utilizarla con Beef-xss
 
 Este script esta hecho con fines educativos cualquier uso ilegal de este sera bajo su propia responsabilidad
 
-! [shellp] (https://github.com/error404-notfound/Beef404/blob/master/beef.jpg)
+<p align="center">
+  <img src="https://github.com/error404-notfound/Beef404/blob/master/beef.jpg">  
+</p>
 
 ### Uso:
 `` `
