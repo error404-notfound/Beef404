@@ -10,7 +10,7 @@ Con este script puedes clonar cualquier pagina para utilizarla con Beef-xss
 ### Caracteristicas:
 ### Reenvío de puertos usando Serveo
 
-## Nota legal:
+### Nota legal:
 
 Este script esta hecho con fines educativos cualquier uso ilegal de este sera bajo su propia responsabilidad
 
