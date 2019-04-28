@@ -19,12 +19,12 @@ Este script esta hecho con fines educativos cualquier uso ilegal de este sera ba
 </p>
 
 ### Uso:
-`` `
+```
 git clone https://github.com/error404-notfound/Beef404
 cd Beef404
 chmod 777 Beef404
 ./Beef404
-`` `
+```
 
 ### ¡Dona!
 Apoya a los autores:
